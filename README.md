@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bbf8410d-3760-47e5-ae93-9cce0b16e504" alt="Thousands Boxes" width="600" />
+<img width="850" alt="thousands-boxes-exp" src="https://github.com/user-attachments/assets/7b9f293e-d914-4d33-8d50-c10d92502a7c" />
 </p>
 <br>
 
