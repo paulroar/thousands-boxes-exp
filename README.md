@@ -1,6 +1,10 @@
 # Thousands Boxes
 
-![Thousands Boxes Demo](https://example.com/demo.gif)
+<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bbf8410d-3760-47e5-ae93-9cce0b16e504" alt="Thousands Boxes" width="600" />
+</p>
+<br>
 
 Thousands Boxes is a playful interactive grid that simulates fluid ripples and trails as you hover or click each square. The project is built with vanilla HTML, CSS, and JavaScript, making it easy to explore, remix, or embed inside other experiences.
 
