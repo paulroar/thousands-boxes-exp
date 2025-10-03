@@ -55,3 +55,15 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Inspired by generative art and water ripple simulations.
 
 Enjoy experimenting with Thousands Boxes! If you create something cool with it, feel free to share.
+
+## Deploying to Netlify
+
+You can deploy this site to Netlify in minutes:
+
+1. Sign in at https://app.netlify.com and click "New site from Git" (or drag & drop the folder).
+2. If using Git, select your repository. Build settings:
+   - Build command: none
+   - Publish directory: `.` (project root)
+3. (Optional) Include `netlify.toml` at the project root for SPA redirects and asset caching.
+
+After deploy, your site will be live at a Netlify URL you can customize.

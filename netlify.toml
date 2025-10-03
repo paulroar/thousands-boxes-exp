@@ -1,0 +1,14 @@
+[build]
+  publish = "."
+
+# Redirect all routes to index.html for SPA-style routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+# Cache static assets aggressively
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
