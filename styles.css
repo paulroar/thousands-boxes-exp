@@ -230,19 +230,19 @@ footer {
 
 @media (max-width: 768px) {
     header {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
-        text-align: center;
+        text-align: left;
         gap: 16px;
         padding: 18px 20px;
     }
     .logo {
-        margin-bottom: 4px;
+        margin-bottom: 0;
     }
     .social-icons {
-        justify-content: center;
-        width: 100%;
-        margin-left: 0;
+        justify-content: flex-end;
+        width: auto;
+        margin-left: auto;
     }
     .social-icons a {
         width: 42px;
